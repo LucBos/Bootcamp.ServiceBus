@@ -25,8 +25,8 @@ namespace PushTest
 	{
 		// Azure ServiceBus account specific information
 		static string ServiceNamespace = "sharedqframebus";
-		private static string IssuerName = "owner";
-		private static string IssuerKey = "+aWcb5G/x60lfXgrGyi6d2I/AwSo8MgCWk3qoTGjQcA=";
+		private static string IssuerName = "ISSUERNAME";
+		private static string IssuerKey = "ISSUERKEY";
 
 		static Uri ServiceUri;
 		static string QueueName;
